@@ -1,0 +1,134 @@
+  File: ./.file-timestamps
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 823h/2083d	Inode: 5128        Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-11-20 16:27:56.361085100 -0300
+Modify: 2022-11-20 16:27:56.361085100 -0300
+Change: 2022-11-20 16:27:56.361085100 -0300
+ Birth: -  File: ./advancements/a4423a94-eaa5-4895-94b0-a6fd9667b891.json
+  Size: 32105     	Blocks: 64         IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 145961      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.335429800 -0300
+Modify: 2017-06-11 04:02:35.000000000 -0300
+Change: 2021-07-18 23:19:53.156813900 -0300
+ Birth: -  File: ./data/Mineshaft.dat
+  Size: 2990      	Blocks: 8          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 242033      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.351055400 -0300
+Modify: 2017-02-19 02:33:45.000000000 -0300
+Change: 2021-07-18 23:19:55.877034800 -0300
+ Birth: -  File: ./data/villages.dat
+  Size: 56        	Blocks: 1          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 146982      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-04-08 15:21:31.655516700 -0300
+Modify: 2017-06-11 04:02:35.000000000 -0300
+Change: 2021-07-18 23:19:53.766173100 -0300
+ Birth: -  File: ./data/villages_end.dat
+  Size: 56        	Blocks: 1          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 144318      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-04-08 15:21:31.659533100 -0300
+Modify: 2017-06-11 04:02:35.000000000 -0300
+Change: 2021-07-18 23:19:52.266210800 -0300
+ Birth: -  File: ./data/villages_nether.dat
+  Size: 56        	Blocks: 1          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 149332      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-04-08 15:21:31.662540200 -0300
+Modify: 2017-06-11 04:02:35.000000000 -0300
+Change: 2021-07-18 23:19:54.266161100 -0300
+ Birth: -  File: ./icon.png
+  Size: 4477      	Blocks: 16         IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 241969      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-11-21 18:10:47.802078000 -0300
+Modify: 2017-02-19 01:38:48.000000000 -0300
+Change: 2021-07-18 23:19:55.783287000 -0300
+ Birth: -  File: ./level.dat
+  Size: 3139      	Blocks: 8          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 145517      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.272932000 -0300
+Modify: 2017-06-11 04:02:36.000000000 -0300
+Change: 2021-07-18 23:19:52.953693100 -0300
+ Birth: -  File: ./level.dat_old
+  Size: 3138      	Blocks: 8          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 145262      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.304180700 -0300
+Modify: 2017-06-11 04:02:35.000000000 -0300
+Change: 2021-07-18 23:19:52.813073400 -0300
+ Birth: -  File: ./playerdata/00000000-0000-0000-0000-000000000000.dat
+  Size: 703       	Blocks: 8          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 241997      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.429178000 -0300
+Modify: 2017-02-19 14:05:38.000000000 -0300
+Change: 2021-07-18 23:19:55.830162000 -0300
+ Birth: -  File: ./playerdata/a4423a94-eaa5-4895-94b0-a6fd9667b891.dat
+  Size: 2313      	Blocks: 8          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 241696      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.444803500 -0300
+Modify: 2017-06-11 04:02:35.000000000 -0300
+Change: 2021-07-18 23:19:55.486419700 -0300
+ Birth: -  File: ./recursive_files_timestamp.sh
+  Size: 1284      	Blocks: 8          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 5103        Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-11-20 16:27:56.296535800 -0300
+Modify: 2022-02-21 16:19:46.119392000 -0300
+Change: 2022-11-20 16:27:48.177829000 -0300
+ Birth: -  File: ./region/r.-1.-1.mca
+  Size: 3080192   	Blocks: 6016       IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 144614      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-04-08 15:21:31.717233400 -0300
+Modify: 2017-06-11 04:02:37.000000000 -0300
+Change: 2021-07-18 23:19:52.453706200 -0300
+ Birth: -  File: ./region/r.-1.0.mca
+  Size: 1847296   	Blocks: 3608       IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 307444      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.491676700 -0300
+Modify: 2017-06-11 04:02:37.000000000 -0300
+Change: 2021-07-18 23:19:57.470746300 -0300
+ Birth: -  File: ./region/r.0.-1.mca
+  Size: 3268608   	Blocks: 6384       IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 145856      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-04-08 15:21:31.878269900 -0300
+Modify: 2017-06-11 04:02:37.000000000 -0300
+Change: 2021-07-18 23:19:53.063065300 -0300
+ Birth: -  File: ./region/r.0.0.mca
+  Size: 1253376   	Blocks: 2448       IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 149737      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.522925200 -0300
+Modify: 2017-06-11 04:02:37.000000000 -0300
+Change: 2021-07-18 23:19:54.516155100 -0300
+ Birth: -  File: ./session.lock
+  Size: 8         	Blocks: 1          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 148711      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-04-08 15:21:25.632739600 -0300
+Modify: 2017-06-11 03:07:12.000000000 -0300
+Change: 2021-07-18 23:19:54.141164100 -0300
+ Birth: -  File: ./stats/00000000-0000-0000-0000-000000000000.json
+  Size: 2091      	Blocks: 8          IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 242231      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.538551700 -0300
+Modify: 2017-02-19 14:05:38.000000000 -0300
+Change: 2021-07-18 23:19:56.095780000 -0300
+ Birth: -  File: ./stats/a4423a94-eaa5-4895-94b0-a6fd9667b891.json
+  Size: 10828     	Blocks: 24         IO Block: 4096   regular file
+Device: 823h/2083d	Inode: 145188      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-18 23:27:12.569807000 -0300
+Modify: 2017-06-11 04:02:35.000000000 -0300
+Change: 2021-07-18 23:19:52.766199100 -0300
+ Birth: -
